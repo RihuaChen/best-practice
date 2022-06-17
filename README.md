@@ -14,3 +14,4 @@
 8. react-refresh
 9. swc
 10. scss
+11. pnpm
